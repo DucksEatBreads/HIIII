@@ -1,16 +1,16 @@
  <p align="center">
  <img height=200 src=https://64.media.tumblr.com/74b319d14a59211c324df5135a518ca8/24eab024a1d047be-a2/s1280x1920/a160a5048f71a1c63e272cfd56dce2c57c48d45c.gifv>
 
-<p align= "center"> 
+<p align= "left"> 
 	 <u> $\color{#84D7A1}{\textsf{HEYY INT FREELY!!}}$
      
-<p align= "center">
+<p align= "left">
 <kbd><u> $\color{#84D7A1}{\textsf{-ˋˏany/all ⊹ minorrr ⊹ˎˊ˗}}$
 
-   <p align= "center">
+   <p align= "left">
 	 <u> $\color{#84D7A1}{\textsf{checkk my}}$
   <a href="https://duckseatbread.straw.page"">strawpage
-    <p align= "center">
+    <p align= "left">
     <u> $\color{#84D7A1}{\textsf{for more info}}$
 
 
