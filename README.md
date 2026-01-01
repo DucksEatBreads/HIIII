@@ -15,8 +15,11 @@
 		
 <p align="right">
 <img height=250 src="https://cdn.imgchest.com/files/dcae13b99247.png">
-   <p align="center">
+	
+   <p align="right">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=466472&width=200&lines=MY+FAVVVS+RNNN" alt="Typing SVG">
 	   
+<p align="center">   
   <img src="https://komarev.com/ghpvc/?username=DucksEatBreads&label=Riddles%20Solved&color=blue&style=square" alt="riddles solved"/>
      <p>
 
